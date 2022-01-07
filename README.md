@@ -1,4 +1,4 @@
-# Encryption
+# Encryption and Decryption
 
 **Advanced Encryption Standard (AES)**<br>
 The more popular and widely adopted symmetric encryption algorithm likely to be encountered nowadays is the AES. It is found at least six time faster than triple DES.
